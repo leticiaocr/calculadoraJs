@@ -36,9 +36,5 @@ Aqui estão as tecnologias utilizadas neste projeto.
   - Link para acesso: https://leticiaocr.github.io/calculadoraJs/
   
   - Repositório: https://github.com/leticiaocr/calculadoraJs.git
-    
-
-  ## Autores
-
-  * **Letícia Oliveira** 
+  
 
