@@ -1,14 +1,22 @@
 
-.calculadora{
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.calculadora {
     width: 400px;
 }
 
-.display{
+.display {
     font-size: 2em;
     width: 100%;
     text-align: right;
 }
-.btn{
+
+.btn {
     width: 100%;
     height: 50px;
     font-size: 1em;
@@ -17,6 +25,9 @@
     cursor: pointer;
 }
 
-.btn:hover{
+.btn:hover {
     background: #9e9e9e;
 }
+
+
+
