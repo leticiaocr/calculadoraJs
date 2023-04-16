@@ -27,7 +27,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 
-![Tela da calculadora](https://github.com/leticiaocr/calculadoraJs/blob/main/assets/CalculadoraJs.gif)
+![Tela da calculadora](https://github.com/leticiaocr/calculadoraJs/blob/main/assets/calcjs.gif)
 
 
 
